@@ -2,7 +2,7 @@
 
 Welcome to the repository for the TikTok Scenario Project I completed through the Google Advanced Data Analytics Certificate on Coursera! In this scenario, I played the role of a data analyst working with the rest of TikTok's data team to create a machine learning model for classifying claims made in videos submitted to the platform.
 
-Each course in the certificate concluded with a final project that marked another stage in the development of this model. You will find the Jupyter notebooks and various supporting documents (e.g. executive summaries) that I completed for these end-of-course projects in this repository.
+Each course in the certificate concluded with a final project that marked another stage in the development of this model. You will find the Jupyter notebooks and various supporting documents (e.g. executive summaries, Tableau visualizations) that I completed for these end-of-course projects in this repository.
 
 Course 1: Creating a project proposal for the TikTok data team in the form of a PACE strategy document
 
